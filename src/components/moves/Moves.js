@@ -12,4 +12,4 @@ const Moves = ({ history, jumpTo }) => {
   return <React.Fragment>{moves}</React.Fragment>
 }
 
-export default Moves
+export default Moves;
