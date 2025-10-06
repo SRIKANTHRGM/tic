@@ -2,7 +2,6 @@
   "name": "tictactoe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://catherineisonline.github.io/tic-tac-toe",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -12,13 +11,11 @@
     "react-router-dom": "^6.22.2",
     "react-scripts": "5.0.1",
     "svgo": "^4.0.0",
-    "web-vitals": "^2.1.4",
-     "gh-pages": "^6.1.1"
+    "web-vitals": "^2.1.4"
   },
-  
   "scripts": {
     "start": "react-scripts start",
-    "build": "gh-pages -d react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
